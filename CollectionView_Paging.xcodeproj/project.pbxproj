@@ -15,7 +15,6 @@
 		39A1CD791CD5D3C600A60C72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39A1CD771CD5D3C600A60C72 /* LaunchScreen.storyboard */; };
 		39A1CD841CD5D3C600A60C72 /* CollectionView_PagingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 39A1CD831CD5D3C600A60C72 /* CollectionView_PagingTests.m */; };
 		39A1CD8F1CD5D3C600A60C72 /* CollectionView_PagingUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 39A1CD8E1CD5D3C600A60C72 /* CollectionView_PagingUITests.m */; };
-		39F23C1D1CD5DCCC00F14830 /* DateFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 39F23C1C1CD5DCCC00F14830 /* DateFlowLayout.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -286,7 +285,6 @@
 				39A1CD711CD5D3C600A60C72 /* ViewController.m in Sources */,
 				39A1CD6E1CD5D3C600A60C72 /* AppDelegate.m in Sources */,
 				39A1CD6B1CD5D3C600A60C72 /* main.m in Sources */,
-				39F23C1D1CD5DCCC00F14830 /* DateFlowLayout.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
